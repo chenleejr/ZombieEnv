@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="lwjgl-jemalloc-natives-windows">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/jar/lwjgl-jemalloc-natives-windows.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

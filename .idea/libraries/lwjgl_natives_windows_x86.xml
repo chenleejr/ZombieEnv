@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="lwjgl-natives-windows-x86">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/jar/lwjgl-natives-windows-x86.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

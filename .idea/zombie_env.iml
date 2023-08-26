@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="javacord-2.0.17-shaded" level="project" />
+    <orderEntry type="library" name="commons-compress-1.18 (2)" level="project" />
+    <orderEntry type="library" name="istack-commons-runtime (2)" level="project" />
+    <orderEntry type="library" name="jassimp (2)" level="project" />
+    <orderEntry type="library" name="javax.activation-api" level="project" />
+    <orderEntry type="library" name="jaxb-api" level="project" />
+    <orderEntry type="library" name="jaxb-runtime" level="project" />
+    <orderEntry type="library" name="lwjgl" level="project" />
+    <orderEntry type="library" name="lwjgl-glfw" level="project" />
+    <orderEntry type="library" name="lwjgl-glfw-natives-windows" level="project" />
+    <orderEntry type="library" name="lwjgl-glfw-natives-windows-x86" level="project" />
+    <orderEntry type="library" name="lwjgl-jemalloc" level="project" />
+    <orderEntry type="library" name="lwjgl-jemalloc-natives-windows" level="project" />
+    <orderEntry type="library" name="lwjgl-jemalloc-natives-windows-x86" level="project" />
+    <orderEntry type="library" name="lwjgl-natives-windows" level="project" />
+    <orderEntry type="library" name="lwjgl-natives-windows-x86" level="project" />
+    <orderEntry type="library" name="lwjgl-opengl" level="project" />
+    <orderEntry type="library" name="lwjgl-opengl-natives-windows" level="project" />
+    <orderEntry type="library" name="lwjgl-opengl-natives-windows-x86" level="project" />
+    <orderEntry type="library" name="lwjgl_util" level="project" />
+    <orderEntry type="library" name="sqlite-jdbc-3.27.2.1" level="project" />
+    <orderEntry type="library" name="uncommons-maths-1.2.3" level="project" />
+    <orderEntry type="library" name="commons-compress-1.18 (2)" level="project" />
+    <orderEntry type="library" name="istack-commons-runtime" level="project" />
+    <orderEntry type="library" name="jassimp" level="project" />
+    <orderEntry type="library" name="javacord-2.0.17-shaded" level="project" />
+    <orderEntry type="library" name="commons-compress-1.18 (2)" level="project" />
+    <orderEntry type="library" name="commons-compress-1.18" level="project" />
+    <orderEntry type="library" name="istack-commons-runtime" level="project" />
+    <orderEntry type="library" name="jassimp" level="project" />
+    <orderEntry type="library" name="javacord-2.0.17-shaded" level="project" />
+    <orderEntry type="library" name="javax.activation-api" level="project" />
+    <orderEntry type="library" name="jaxb-api" level="project" />
+    <orderEntry type="library" name="jaxb-runtime" level="project" />
+    <orderEntry type="library" name="lwjgl" level="project" />
+    <orderEntry type="library" name="lwjgl-glfw" level="project" />
+    <orderEntry type="library" name="lwjgl-glfw-natives-windows" level="project" />
+    <orderEntry type="library" name="lwjgl-glfw-natives-windows-x86" level="project" />
+    <orderEntry type="library" name="lwjgl-jemalloc" level="project" />
+    <orderEntry type="library" name="lwjgl-jemalloc-natives-windows" level="project" />
+    <orderEntry type="library" name="lwjgl-jemalloc-natives-windows-x86" level="project" />
+    <orderEntry type="library" name="lwjgl-natives-windows" level="project" />
+    <orderEntry type="library" name="lwjgl-natives-windows-x86" level="project" />
+    <orderEntry type="library" name="lwjgl-opengl" level="project" />
+    <orderEntry type="library" name="lwjgl-opengl-natives-windows" level="project" />
+    <orderEntry type="library" name="lwjgl-opengl-natives-windows-x86" level="project" />
+    <orderEntry type="library" name="lwjgl_util" level="project" />
+    <orderEntry type="library" name="sqlite-jdbc-3.27.2.1" level="project" />
+    <orderEntry type="library" name="uncommons-maths-1.2.3" level="project" />
+    <orderEntry type="library" name="zombie_jar" level="project" />
+    <orderEntry type="library" name="trove-3.0.3" level="project" />
+  </component>
+</module>
